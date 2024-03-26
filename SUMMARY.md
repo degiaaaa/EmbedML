@@ -1,0 +1,18 @@
+# Table of contents
+
+* [1. Maschinelles Lernen](README.md)
+  * [1.2 Datenvorverarbeitung](1.-maschinelles-lernen/1.2-datenvorverarbeitung.md)
+  * [1.3 Überwachtes Lernen (Supervised Learning)](1.-maschinelles-lernen/1.3-ueberwachtes-lernen-supervised-learning.md)
+  * [1.4 Semi-Überwachtes Lernen (Supervised Learning)](1.-maschinelles-lernen/1.4-semi-ueberwachtes-lernen-supervised-learning.md)
+  * [1.5 Unüberwachtes Lernen (Unsupervised Learning)](1.-maschinelles-lernen/1.5-unueberwachtes-lernen-unsupervised-learning.md)
+  * [1.6 Bestärkendes Lernen (Reinforcement Learning)](1.-maschinelles-lernen/1.6-bestaerkendes-lernen-reinforcement-learning.md)
+  * [1.7 Neuronale Netze](1.-maschinelles-lernen/1.7-neuronale-netze.md)
+  * [1.9 Helpful Toolsete](1.-maschinelles-lernen/1.9-helpful-toolsete.md)
+* [2. TinyML](2.-tinyml/README.md)
+  * [2.1 TinyML - Software, Frameworks](2.-tinyml/2.1-tinyml-software-frameworks.md)
+  * [2.2 Hardwareauswahl](2.-tinyml/2.2-hardwareauswahl.md)
+  * [2.3 TinyML - Modellkomprimierung](2.-tinyml/2.3-tinyml-modellkomprimierung.md)
+  * [2.4 Edge-Geräte und Hardware-Einsatz von TinyML-Modellen](2.-tinyml/2.4-edge-geraete-und-hardware-einsatz-von-tinyml-modellen.md)
+  * [2.5 On-Device Training für TinyML-Modelle](2.-tinyml/2.5-on-device-training-fuer-tinyml-modelle.md)
+  * [2.6 Toolset](2.-tinyml/2.6-toolset.md)
+  * [2.7 Projects](2.-tinyml/2.7-projects.md)
